@@ -14,6 +14,7 @@ This project consists of backend and frontend which needs to be setup individual
 * change directory to backend using command `cd backend`
 * now install dependencies using command `npm install`
 * start backend server using command `node index.js`
+* server will start at `http://localhost:5000` 
 
 ## 2. FrontEnd setup
 
